@@ -7,3 +7,6 @@
 <br>2. Firebase Integration: The form has been integrated with Firebase, a platform that offers various cloud-based services. This integration allows the form data to be stored and managed in real-time within a Firebase database, enabling efficient data storage and retrieval. </br>
 
 <br>3. Glassmorphism Design: The user interface of the form has been enhanced using the glassmorphism design trend. This design style creates a modern and visually appealing interface by applying translucent and blurred glass-like elements, giving a sense of depth and elegance to the form. </br>
+
+Created in Canva, I'm finding use reducer error in deployment
+![image](https://github.com/Vishalk91-4/SDG-Form/assets/116670999/8fd19469-00c1-4033-9ed1-a2b1ca7b7c9d)
