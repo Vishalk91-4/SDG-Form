@@ -1,0 +1,51 @@
+.contact-section {  
+  padding-top: 15em;
+  padding-bottom: 21.7em;
+  background: url(banner1.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h3,h6  {
+  color: #fff !important;
+}
+
+.top {
+  font-size: 56px;
+  color:#fff
+}
+
+.middle {
+  font-size: 56px;
+  color:#fff;
+  margin-bottom: 1rem;
+  margin-top: 0;
+  text-align: center;
+}
+
+.wrapper {
+  width: 100%;
+  -webkit-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+  box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+}
+
+.wrapper {
+
+  width: 100%;
+  -webkit-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 0px 21px 41px -13px rgba(0, 0, 0, 0.18);
+  box-shadow: 0px 21px 41px 13px rgba(0, 0, 0, 0.18);
+}
+
+
+.row {
+  justify-content: center;
+  height: 60vh;
+  gap: 44px;
+  display: flex;
+  flex-direction: column;
+}
+
+
